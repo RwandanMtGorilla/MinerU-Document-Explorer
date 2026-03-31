@@ -59,10 +59,10 @@ https://github.com/user-attachments/assets/9a2840bf-c314-462e-9e41-73f5a6ded7c3
 clawhub install mineru-document-explorer
 ```
 
-执行成功后，请将以下内容发送给您的 OpenClaw 代理：
+执行成功后，请将以下内容发送给您的 OpenClaw Agent：
 
 ``` 
-安装并测试 mineru-document-explorer
+测试一下已下载的mineru-document-explorer这个技能
 ```
 
 ### 方式二：GitHub（让 Agent 自动安装）

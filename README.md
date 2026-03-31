@@ -64,7 +64,7 @@ clawhub install mineru-document-explorer
 
 After successful execution, Send the following to your OpenClaw agent:
 ```
-Install and test mineru-document-explorer
+Test the downloaded skill called mineru-document-explorer
 ```
 
 ### Option 2: GitHub (let your Agent install it)
