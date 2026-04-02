@@ -3,13 +3,26 @@
 ## Install
 
 1. Copy the entire `mineru-document-explorer/` directory into your OpenClaw skills folder
-2. Run the setup script:
+2. Run the setup script for your platform:
+
+### Linux / macOS
 
 ```bash
-bash SCRIPTS/setup.sh
+bash scripts/setup.sh
 ```
 
-Requires Python ≥ 3.10. The script installs the `doc-search` CLI and all dependencies, then writes `config-state.json`.
+### Windows
+
+```batch
+scripts\setup.bat
+```
+
+Or using PowerShell:
+```powershell
+& scripts\setup.bat
+```
+
+**Requirements**: Python ≥ 3.10. The script installs the `doc-search` CLI and all dependencies, then writes `config-state.json`.
 
 **The default server is pre-configured — ready to use immediately after install.**
 

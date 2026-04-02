@@ -79,6 +79,15 @@ The agent will: read the install guide → copy the skill directory → run the 
 
 After setup, the agent will ask if you want to configure PageIndex (optional — provide an OpenAI-compatible API key to enable auto-generated document outlines; skipping this does not affect any other feature).
 
+### For Windows Users
+
+Windows users can run:
+```batch
+scripts\setup.bat
+```
+
+For detailed Windows installation guide, see [docs/WINDOWS.md](docs/WINDOWS.md).
+
 ---
 
 ## 📖 Citation
